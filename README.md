@@ -1,8 +1,12 @@
+
+
+
+
 # Invoice_Processing_Automation_Bot
 Hybrid Multi-Format Invoice Extraction &amp; GSuite Automation🤖
 
 A robust UiPath automation designed to process invoices from multiple sources (PDF & Excel), extract critical data points, and deliver a consolidated report via Gmail.
-
+https://github.com/user-attachments/assets/935b9b08-ab51-4736-a65e-04d020bcb28c
 ## 🚀 Technical Architecture
 The bot employs a **Decision-Logic Flow**:
 1. **Source Identification**: Detects file extensions (.pdf vs .xlsx).
